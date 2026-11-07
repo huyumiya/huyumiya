@@ -1,16 +1,18 @@
-## Hi there 👋
+# 配布素材一覧
 
-<!--
-**huyumiya/huyumiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HP: https://huyumiya.witchserver.jp/index.html
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 素材一覧
+
+|カテゴリ|リンク|
+|---------|---------|
+|○○シリーズA立ち絵|[GitHub](https://github.com/USERNAME/oo-a-tachie)|
+|○○シリーズB立ち絵|[GitHub](https://github.com/USERNAME/oo-b-tachie)|
+|BGM素材集|[GitHub](https://github.com/USERNAME/bgm-assets)|
+
+---
+
+利用規約
+https://example.com/license
