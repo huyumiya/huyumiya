@@ -14,5 +14,6 @@ https://huyumiya.witchserver.jp/material.html
 |冬宮式ちび雫ちゃん立ち絵_Ver1.2.1|[GitHub](https://github.com/huyumiya/2024-chibiyukari/releases/tag/Ver1.2.1)|2026/11/12|
 |冬宮式ちびコウせんせー立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibiminase/releases/tag/Ver1.0.1)|2026/11/12|
 |冬宮式ちびイフ兄さん立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibiif/releases/tag/Ver1.0.1)|2026/11/12|
+|冬宮式ちびルプノ立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibilupno/releases/tag/Ver1.0.1)|2026/11/12|
 
 ---
