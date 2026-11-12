@@ -16,4 +16,9 @@ https://huyumiya.witchserver.jp/material.html
 |冬宮式ちびイフ兄さん立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibiif/releases/tag/Ver1.0.1)|2026/11/12|
 |冬宮式ちびルプノ立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibilupno/releases/tag/Ver1.0.1)|2026/11/12|
 
+### ちまいシリーズ
+|カテゴリ|リンク|最終更新日|
+|---------|---------|---------|
+|冬宮式ちまいあかり_蕾_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chimaiakari/releases/tag/Ver1.0.1)|2026/11/12|
+
 ---
