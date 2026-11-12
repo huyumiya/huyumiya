@@ -24,6 +24,6 @@ https://huyumiya.witchserver.jp/material.html
 ### おすわりシリーズ
 |カテゴリ|リンク|最終更新日|
 |---------|---------|---------|
-|冬宮式結月ゆかり雫おすわり立ち絵_ver1.0.1|[GitHub](https://github.com/huyumiya/2025-osuwarishizuku/releases/tag/Ver1.0.1)|2026/11/12|
+|冬宮式結月ゆかり雫おすわり立ち絵_ver1.0.1|[GitHub](https://github.com/huyumiya/2025-osuwarishizuku/releases/tag/Ver1.0.1)|2026/11/13|
 
 ---
