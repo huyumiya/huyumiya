@@ -17,6 +17,12 @@ https://huyumiya.witchserver.jp/material.html
 |冬宮式ちびルプノ立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chibilupno/releases/tag/Ver1.0.1)|2026/11/12|
 |冬宮式ちびきりたん立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2023-chibikiritan/releases/tag/Ver1.0.1)|2026/11/13|
 
+### もちもちシリーズ
+|カテゴリ|リンク|最終更新日|
+|---------|---------|---------|
+|冬宮式もちもちコトエ様の立ち絵_Ver1.0.1|[GitHub](https://github.com/huyumiya/2023-mochikotoe/releases/tag/Ver1.0.1)|2026/11/13|
+|冬宮式もちもちヒメちの立ち絵_Ver1.1.1|[GitHub](https://github.com/huyumiya/2023-mochihime/releases/tag/Ver1.1.1)|2026/11/13|
+
 ### ちまいシリーズ
 |カテゴリ|リンク|最終更新日|
 |---------|---------|---------|
