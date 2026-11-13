@@ -44,4 +44,6 @@ https://huyumiya.witchserver.jp/material.html
 |カテゴリ|リンク|最終更新日|
 |---------|---------|---------|
 |電気予報_UST|[GitHub](https://github.com/huyumiya/2023-denkiyohou/releases/tag/Ver.1)|2026/11/13|
+|かわいげないな_UST|[GitHub](https://github.com/huyumiya/2024-kawaigenaina/releases/tag/Ver.1)|2026/11/13|
+
 ---
