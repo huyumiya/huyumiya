@@ -8,6 +8,11 @@ https://huyumiya.witchserver.jp/material.html
 ---
 
 ## 素材一覧
+### 等身高めシリーズ
+|カテゴリ|リンク|最終更新日|
+|---------|---------|---------|
+|冬宮式分霊様立ち絵_ver1.0.1|[GitHub](https://github.com/huyumiya/2024-kotoe/releases/tag/Ver1.0.1)|2026/11/13|
+
 ### ちびシリーズ
 |カテゴリ|リンク|最終更新日|
 |---------|---------|---------|
