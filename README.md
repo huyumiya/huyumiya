@@ -40,4 +40,8 @@ https://huyumiya.witchserver.jp/material.html
 |---------|---------|---------|
 |冬宮式結月ゆかり雫おすわり立ち絵_ver1.0.1|[GitHub](https://github.com/huyumiya/2025-osuwarishizuku/releases/tag/Ver1.0.1)|2026/11/13|
 
+### UST
+|カテゴリ|リンク|最終更新日|
+|---------|---------|---------|
+|電気予報_UST|[GitHub](https://github.com/huyumiya/2023-denkiyohou/releases/tag/Ver.1)|2026/11/13|
 ---
