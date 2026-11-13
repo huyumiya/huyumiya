@@ -33,6 +33,7 @@ https://huyumiya.witchserver.jp/material.html
 |---------|---------|---------|
 |冬宮式ちまいあかり_蕾_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chimaiakari/releases/tag/Ver1.0.1)|2026/11/12|
 |冬宮式ちまいレイ_Ver1.0.1|[GitHub](https://github.com/huyumiya/2023-chimairei/releases/tag/Ver1.0.1)|2026/11/13|
+|冬宮式ちまいさよさん_Ver1.0.1|[GitHub](https://github.com/huyumiya/2024-chimaisayo/releases/tag/Ver1.0.1)|2026/11/13|
 
 ### おすわりシリーズ
 |カテゴリ|リンク|最終更新日|
